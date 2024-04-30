@@ -1,0 +1,27 @@
+apiVersion: v1
+entries:
+  oai-gnb:
+  - apiVersion: v2
+    appVersion: develop
+    created: "2024-04-30T09:24:48.837029556Z"
+    description: A Helm chart for gnb network function
+    digest: 26c07174ffee198f8d1fe4aa5776482c5f0bda7a3840e129508b1f6153ba51b3
+    icon: http://www.openairinterface.org/wp-content/uploads/2015/06/cropped-oai_final_logo.png
+    keywords:
+    - RFSimulator
+    - gNB
+    - RAN
+    - 5G
+    - USRP_B2XX
+    - USRP_N3XX
+    maintainers:
+    - email: contact@openairinterface.org
+      name: OPENAIRINTERFACE
+    name: oai-gnb
+    sources:
+    - https://gitlab.eurecom.fr/oai/openairinterface5g
+    type: application
+    urls:
+    - oai-gnb-2.0.0.tgz
+    version: 2.0.0
+generated: "2024-04-30T09:24:48.835393589Z"
