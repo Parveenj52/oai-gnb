@@ -3,9 +3,9 @@ entries:
   oai-gnb:
   - apiVersion: v2
     appVersion: develop
-    created: "2024-05-02T13:33:14.499380208Z"
+    created: "2024-05-02T13:49:41.052314409Z"
     description: A Helm chart for gnb network function
-    digest: 071700644d43ee7cc918bc730d74843175615623dd281fcd063f1826670157c1
+    digest: fca6db9770490b03c7c4ef04bcd12975076cd1adff5fa4cf092a9efe6b81e197
     icon: http://www.openairinterface.org/wp-content/uploads/2015/06/cropped-oai_final_logo.png
     keywords:
     - RFSimulator
@@ -24,4 +24,4 @@ entries:
     urls:
     - oai-gnb-2.0.0.tgz
     version: 2.0.0
-generated: "2024-05-02T13:33:14.497546451Z"
+generated: "2024-05-02T13:49:41.050891226Z"
